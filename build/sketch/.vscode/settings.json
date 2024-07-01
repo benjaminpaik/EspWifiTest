@@ -1,0 +1,14 @@
+#line 1 "C:\\Users\\benja\\Documents\\Arduino\\EspWifiTest\\.vscode\\settings.json"
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "memory": "cpp",
+        "algorithm": "cpp"
+    }
+}
